@@ -6,8 +6,6 @@ public class Three {
     System.out.println("testing");
     if (18 > 0) {
       System.out.println("eligible");
-    } else {
-      System.out.println("Not eligible");
-    }
+    } 
   }
 }
